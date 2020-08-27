@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.watherapppoc",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "app-staging-debug.apk",
+        "fullName": "stagingDebug",
+        "baseName": "staging-debug",
+        "dirName": ""
+      },
+      "path": "resources-stagingDebug.ap_",
+      "properties": {
+        "packageId": "com.watherapppoc",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

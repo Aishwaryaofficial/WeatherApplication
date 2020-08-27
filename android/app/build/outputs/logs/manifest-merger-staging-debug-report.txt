@@ -1,0 +1,302 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/61de1bfe74682aeba02134a77000e732/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/07a652f3686be6553f31278200ad9dbc/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-config] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e7938efbef8726a364ce7eafa703059/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1af5fda6c9635a7aa403e6aedd7f76a2/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ba86982ffba108365316ace548d4f0e/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50a51809450b2b554e2bf865420b273f/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ca69e66a1252ac3f5daa86ff472b7c9/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c23ea537793d6ec52ead415ae77faa5e/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/da926edf3222263244b765f4992b0b43/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/062bbaae81ee9d61438b709face288b8/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/08d796bbf20d77c6676f44bad001909a/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6d0a165df4e469cc3f1a5fd5ba3f098/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/de77e627ed8cc8bec3b1adfe798f4a32/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f98a63ababfc5cea57030a67c2fc5d61/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c555892f6f1f5feeaa17ebffaab51365/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2c98f53510590a2f99394bc24d1eab0c/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1aa6554055b7a0f6e8bd3612b6b327c9/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a397f774cc32e9fe2cd67e9b6ef90a7b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/55ce28f4d67924bedfbf643e3e3662d1/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e8756cc9377569ea492172995b848c7/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/4296203f7d4d1414389621fac63d5822/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/46d9743eec2f2ac018af0628aba10b89/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5cc9a196b25db2c4497bb85e808deca3/transition-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/23e80da3f8e0f40f68ddd592d921a7a9/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/efd5377a4979346f52353122e33cd616/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/591876b1dcb09215eb14effd58bb0c8a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/191ebaec0811f833a22fe66bc14744e7/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/721fc5600d2ea79def5abfd8cae41a84/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/aade5036fd713c689a8b71226dd2e6b7/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/70269a53b172b8a72b99f43de73ef356/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/245e6930bac2dad4e43559fa0575b467/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/04160c90573c0b3df2dd593667f4017e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f91a350a306928090355aa8f228b55f0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3d11cc332d99af123a0c9d5eca897337/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/10384b909e23a7e3bf9b6a0f942c182c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6a88932cd5a86b531a78d76b0fefb57/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2ac2d512250fbf66c377e24f834fc40a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8cfc91d8736ce5bfe84d325476fca741/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3ba7794b5ff76d3bcb8f520163bafaa2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/49c70109d3f340f1bc09b6062f28ea1f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c4b714f276383ea0e8748a4eb6813e77/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/bb9ad1d7819dcbfc066cf0bf0c85a45d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a93a19f6912466e3f5c79dff373320e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5735f1772c666e9d993a022c284ac7fd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e3afdc53f846ebada4b3fa27bbf946a5/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50f42efbe4728117f9242c33894ec47e/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/45a5df916912b07bd73309a57bb0a3ba/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/98de1087123e658ca823f7e2863a658e/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e6dc4f03f614ca91523a328d70f1a9ac/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e7938efbef8726a364ce7eafa703059/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e7938efbef8726a364ce7eafa703059/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e8756cc9377569ea492172995b848c7/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e8756cc9377569ea492172995b848c7/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/4296203f7d4d1414389621fac63d5822/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/4296203f7d4d1414389621fac63d5822/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8cfc91d8736ce5bfe84d325476fca741/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8cfc91d8736ce5bfe84d325476fca741/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/45a5df916912b07bd73309a57bb0a3ba/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/45a5df916912b07bd73309a57bb0a3ba/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.watherapppoc.MainActivity
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/61de1bfe74682aeba02134a77000e732/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/61de1bfe74682aeba02134a77000e732/jetified-flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/07a652f3686be6553f31278200ad9dbc/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/07a652f3686be6553f31278200ad9dbc/jetified-flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-config] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e7938efbef8726a364ce7eafa703059/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e7938efbef8726a364ce7eafa703059/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1af5fda6c9635a7aa403e6aedd7f76a2/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1af5fda6c9635a7aa403e6aedd7f76a2/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ba86982ffba108365316ace548d4f0e/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ba86982ffba108365316ace548d4f0e/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50a51809450b2b554e2bf865420b273f/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50a51809450b2b554e2bf865420b273f/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ca69e66a1252ac3f5daa86ff472b7c9/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8ca69e66a1252ac3f5daa86ff472b7c9/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c23ea537793d6ec52ead415ae77faa5e/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c23ea537793d6ec52ead415ae77faa5e/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/da926edf3222263244b765f4992b0b43/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/da926edf3222263244b765f4992b0b43/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/062bbaae81ee9d61438b709face288b8/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/062bbaae81ee9d61438b709face288b8/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/08d796bbf20d77c6676f44bad001909a/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/08d796bbf20d77c6676f44bad001909a/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6d0a165df4e469cc3f1a5fd5ba3f098/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6d0a165df4e469cc3f1a5fd5ba3f098/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/de77e627ed8cc8bec3b1adfe798f4a32/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/de77e627ed8cc8bec3b1adfe798f4a32/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f98a63ababfc5cea57030a67c2fc5d61/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f98a63ababfc5cea57030a67c2fc5d61/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c555892f6f1f5feeaa17ebffaab51365/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c555892f6f1f5feeaa17ebffaab51365/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2c98f53510590a2f99394bc24d1eab0c/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2c98f53510590a2f99394bc24d1eab0c/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1aa6554055b7a0f6e8bd3612b6b327c9/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/1aa6554055b7a0f6e8bd3612b6b327c9/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a397f774cc32e9fe2cd67e9b6ef90a7b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a397f774cc32e9fe2cd67e9b6ef90a7b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/55ce28f4d67924bedfbf643e3e3662d1/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/55ce28f4d67924bedfbf643e3e3662d1/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e8756cc9377569ea492172995b848c7/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2e8756cc9377569ea492172995b848c7/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/4296203f7d4d1414389621fac63d5822/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/4296203f7d4d1414389621fac63d5822/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/46d9743eec2f2ac018af0628aba10b89/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/46d9743eec2f2ac018af0628aba10b89/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5cc9a196b25db2c4497bb85e808deca3/transition-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5cc9a196b25db2c4497bb85e808deca3/transition-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/23e80da3f8e0f40f68ddd592d921a7a9/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/23e80da3f8e0f40f68ddd592d921a7a9/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/efd5377a4979346f52353122e33cd616/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/efd5377a4979346f52353122e33cd616/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/591876b1dcb09215eb14effd58bb0c8a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/591876b1dcb09215eb14effd58bb0c8a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/191ebaec0811f833a22fe66bc14744e7/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/191ebaec0811f833a22fe66bc14744e7/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/721fc5600d2ea79def5abfd8cae41a84/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/721fc5600d2ea79def5abfd8cae41a84/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/aade5036fd713c689a8b71226dd2e6b7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/aade5036fd713c689a8b71226dd2e6b7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/70269a53b172b8a72b99f43de73ef356/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/70269a53b172b8a72b99f43de73ef356/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/245e6930bac2dad4e43559fa0575b467/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/245e6930bac2dad4e43559fa0575b467/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/04160c90573c0b3df2dd593667f4017e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/04160c90573c0b3df2dd593667f4017e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f91a350a306928090355aa8f228b55f0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/f91a350a306928090355aa8f228b55f0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3d11cc332d99af123a0c9d5eca897337/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3d11cc332d99af123a0c9d5eca897337/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/10384b909e23a7e3bf9b6a0f942c182c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/10384b909e23a7e3bf9b6a0f942c182c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/936cb5c7c30dd0dc083debbe3b303168/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6a88932cd5a86b531a78d76b0fefb57/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c6a88932cd5a86b531a78d76b0fefb57/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2ac2d512250fbf66c377e24f834fc40a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/2ac2d512250fbf66c377e24f834fc40a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8cfc91d8736ce5bfe84d325476fca741/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/8cfc91d8736ce5bfe84d325476fca741/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3ba7794b5ff76d3bcb8f520163bafaa2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/3ba7794b5ff76d3bcb8f520163bafaa2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/49c70109d3f340f1bc09b6062f28ea1f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/49c70109d3f340f1bc09b6062f28ea1f/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c4b714f276383ea0e8748a4eb6813e77/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/c4b714f276383ea0e8748a4eb6813e77/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/bb9ad1d7819dcbfc066cf0bf0c85a45d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/bb9ad1d7819dcbfc066cf0bf0c85a45d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a93a19f6912466e3f5c79dff373320e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/a93a19f6912466e3f5c79dff373320e4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5735f1772c666e9d993a022c284ac7fd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5735f1772c666e9d993a022c284ac7fd/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e3afdc53f846ebada4b3fa27bbf946a5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e3afdc53f846ebada4b3fa27bbf946a5/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50f42efbe4728117f9242c33894ec47e/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/50f42efbe4728117f9242c33894ec47e/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/45a5df916912b07bd73309a57bb0a3ba/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/45a5df916912b07bd73309a57bb0a3ba/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/98de1087123e658ca823f7e2863a658e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/98de1087123e658ca823f7e2863a658e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e6dc4f03f614ca91523a328d70f1a9ac/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/e6dc4f03f614ca91523a328d70f1a9ac/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/aisrasto/.gradle/caches/transforms-2/files-2.1/5771d6392023fb013c6d43df7e718384/jetified-flipper-0.37.0/AndroidManifest.xml:16:22-73

@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DataListSection component renders as expected 1`] = `
+<Fragment>
+  <ForwardRef(SafeAreaView)
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flex": 1,
+        "marginTop": 0,
+        "width": "100%",
+      }
+    }
+  >
+    <SectionList
+      data={Array []}
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onEndReachedThreshold={2}
+      renderItem={[Function]}
+      renderSectionHeader={[Function]}
+      scrollEventThrottle={50}
+      stickySectionHeadersEnabled={true}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </ForwardRef(SafeAreaView)>
+</Fragment>
+`;
+
+exports[`Testing DataListSection component renders as expected 2`] = `
+<Fragment>
+  <ForwardRef(SafeAreaView)
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flex": 1,
+        "marginTop": 0,
+        "width": "100%",
+      }
+    }
+  >
+    <SectionList
+      data={Array []}
+      disableVirtualization={false}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onEndReachedThreshold={2}
+      renderItem={[Function]}
+      renderSectionHeader={[Function]}
+      scrollEventThrottle={50}
+      stickySectionHeadersEnabled={true}
+      updateCellsBatchingPeriod={50}
+      windowSize={21}
+    />
+  </ForwardRef(SafeAreaView)>
+</Fragment>
+`;
+
+exports[`Testing DataListSection component renders as expected 3`] = `""`;
+
+exports[`Testing DataListSection component renders as expected 4`] = `
+<Item
+  item={
+    Array [
+      Object {
+        "data": Object {
+          "clouds": Object {
+            "all": 55,
+          },
+          "dt": 1589220000,
+          "dt_txt": "2020-05-11 18:00:00",
+          "main": Object {
+            "feels_like": 301.8,
+            "grnd_level": 983,
+            "humidity": 37,
+            "pressure": 1007,
+            "sea_level": 1007,
+            "temp": 305.15,
+            "temp_kf": -1.05,
+            "temp_max": 306.2,
+            "temp_min": 305.15,
+          },
+          "rain": Object {
+            "3h": 0.32,
+          },
+          "sys": Object {
+            "pod": "n",
+          },
+          "weather": Array [
+            Object {
+              "description": "light rain",
+              "icon": "10n",
+              "id": 500,
+              "main": "Rain",
+            },
+          ],
+          "wind": Object {
+            "deg": 314,
+            "speed": 7.34,
+          },
+        },
+        "key": "2020-05-11",
+      },
+      Object {
+        "data": Object {
+          "clouds": Object {
+            "all": 55,
+          },
+          "dt": 1589220000,
+          "dt_txt": "2020-05-11 18:00:00",
+          "main": Object {
+            "feels_like": 301.8,
+            "grnd_level": 983,
+            "humidity": 37,
+            "pressure": 1007,
+            "sea_level": 1007,
+            "temp": 305.15,
+            "temp_kf": -1.05,
+            "temp_max": 306.2,
+            "temp_min": 305.15,
+          },
+          "rain": Object {
+            "3h": 0.32,
+          },
+          "sys": Object {
+            "pod": "n",
+          },
+          "weather": Array [
+            Object {
+              "description": "light rain",
+              "icon": "10n",
+              "id": 500,
+              "main": "Rain",
+            },
+          ],
+          "wind": Object {
+            "deg": 314,
+            "speed": 7.34,
+          },
+        },
+        "key": "2020-05-11",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Testing DataListSection component renders as expected 5`] = `[Function]`;

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1595800442465" clover="3.2.0">
+  <project timestamp="1595800442465" name="All files">
+    <metrics statements="33" coveredstatements="20" conditionals="6" coveredconditionals="1" methods="10" coveredmethods="5" elements="49" coveredelements="26" complexity="0" loc="33" ncloc="33" packages="3" files="6" classes="6"/>
+    <package name="unit_test">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="sum.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/unit_test/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="util">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="AppColor.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/util/AppColor.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="AppConstant.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/util/AppConstant.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="AppStyle.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/util/AppStyle.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="util.component">
+      <metrics statements="25" coveredstatements="12" conditionals="6" coveredconditionals="1" methods="9" coveredmethods="4"/>
+      <file name="WeatherListView.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/util/component/WeatherListView.js">
+        <metrics statements="11" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="3"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="35" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+      </file>
+      <file name="ZipInputView.js" path="/Users/aisrasto/react_native_poc_weatherapp/WatherAppPOC/src/util/component/ZipInputView.js">
+        <metrics statements="14" coveredstatements="5" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

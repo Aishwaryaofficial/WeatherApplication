@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Values from default config. -->
+    <string name="API_HOST" translatable="false">"https://api.staging.foobar.com"</string>
+    <string name="IS_PRODUCTION" translatable="false">"false"</string>
+    <string name="enviroment_type" translatable="false">"In staging"</string>
+
+</resources>

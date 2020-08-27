@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ZipInputView component renders as expected 1`] = `
+<Fragment>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "black",
+        "flexDirection": "row",
+        "height": 60,
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      allowFontScaling={true}
+      keyboardType="number-pad"
+      onChangeText={[Function]}
+      placeholder="Enter zipcode for India"
+      rejectResponderTermination={true}
+      returnKeyType="done"
+      style={
+        Object {
+          "backgroundColor": "#e9eef0",
+          "borderColor": "grey",
+          "borderRadius": 10,
+          "borderWidth": 2,
+          "fontSize": 16,
+          "height": "80%",
+          "marginHorizontal": 15,
+          "padding": 5,
+          "textAlign": "left",
+          "width": "70%",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <Button
+      onPress={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2595ba",
+          "borderColor": "#e9eef0",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 40,
+          "tintColor": "#e9eef0",
+        }
+      }
+      title="submit"
+    />
+  </View>
+</Fragment>
+`;
+
+exports[`Testing ZipInputView component renders as expected 2`] = `
+<Fragment>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "black",
+        "flexDirection": "row",
+        "height": 60,
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      allowFontScaling={true}
+      keyboardType="number-pad"
+      onChangeText={[Function]}
+      placeholder="Enter zipcode for India"
+      rejectResponderTermination={true}
+      returnKeyType="done"
+      style={
+        Object {
+          "backgroundColor": "#e9eef0",
+          "borderColor": "grey",
+          "borderRadius": 10,
+          "borderWidth": 2,
+          "fontSize": 16,
+          "height": "80%",
+          "marginHorizontal": 15,
+          "padding": 5,
+          "textAlign": "left",
+          "width": "70%",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <Button
+      onPress={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2595ba",
+          "borderColor": "#e9eef0",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 40,
+          "tintColor": "#e9eef0",
+        }
+      }
+      title="submit"
+    />
+  </View>
+</Fragment>
+`;

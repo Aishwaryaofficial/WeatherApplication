@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WatherAppPOC.iml" filepath="$PROJECT_DIR$/.idea/modules/WatherAppPOC.iml" group="WatherAppPOC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="WatherAppPOC/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1736878700/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1736878700/react-native-community_async-storage.iml" group="WatherAppPOC/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1394578928/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1394578928/react-native-community_geolocation.iml" group="WatherAppPOC/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/461834641/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/461834641/react-native-community_masked-view.iml" group="WatherAppPOC/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-663950238/react-native-config.iml" filepath="$PROJECT_DIR$/.idea/modules/-663950238/react-native-config.iml" group="WatherAppPOC/react-native-config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-61412250/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-61412250/react-native-gesture-handler.iml" group="WatherAppPOC/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/3738102/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/3738102/react-native-reanimated.iml" group="WatherAppPOC/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1763738447/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1763738447/react-native-safe-area-context.iml" group="WatherAppPOC/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1038489049/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1038489049/react-native-screens.iml" group="WatherAppPOC/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1989604656/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1989604656/react-native-vector-icons.iml" group="WatherAppPOC/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

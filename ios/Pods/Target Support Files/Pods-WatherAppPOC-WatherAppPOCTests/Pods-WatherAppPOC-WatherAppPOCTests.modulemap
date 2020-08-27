@@ -1,0 +1,6 @@
+module Pods_WatherAppPOC_WatherAppPOCTests {
+  umbrella header "Pods-WatherAppPOC-WatherAppPOCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
